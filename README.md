@@ -9,16 +9,16 @@ Je recherche une **alternance à partir de juin 2026** dans le développement lo
 - **Langages** : Java, Python, C, JavaScript
 - **Web** : Django, Spring Boot, Angular, HTML, CSS
 - **Base de données** : SQL, MySQL, PostgreSQL, SQLite
-- **Outils** : Git, GitHub, VS Code
+- **Outils** : Git, GitHub, VS Code, Maven, npm
 - **Notions** : API REST, Machine Learning, sécurité web, OWASP Top 10
 
-## 🚀 Projet principal
+## 🚀 Projets principaux
 
 ### 🌾 AgriConnect
 
 Application web Django de recommandation agricole utilisant un modèle de Machine Learning.
 
-Fonctionnalités principales :
+**Fonctionnalités principales :**
 - Prédiction de culture selon les paramètres du sol
 - Historique des prédictions
 - Analyse des données avec graphiques
@@ -28,13 +28,29 @@ Fonctionnalités principales :
 
 🔗 Projet GitHub : https://github.com/Hamza-dev-max/agriconnect
 
+---
+
+### ✅ TaskFlow
+
+Application web fullstack de gestion de tâches.
+
+**Fonctionnalités principales :**
+- Création, modification et suppression de tâches
+- Suivi du statut : à faire, en cours, terminée
+- Gestion des priorités
+- Recherche et filtrage des tâches
+- Tableau de bord avec statistiques
+- Architecture frontend/backend avec API REST
+
+🔗 Projet GitHub : https://github.com/Hamza-dev-max/taskflow
+
 ## 🎯 Objectif professionnel
 
 Développer mes compétences en développement logiciel, applications web et cybersécurité à travers des projets concrets, structurés et documentés.
 
 ## 📫 Contact
 
-- Email : marzaqhamza1@gmail.com
-- Téléphone : 07 62 46 06 40
-- LinkedIn : https://www.linkedin.com/in/hamza-marzaq
-- GitHub : https://github.com/Hamza-dev-max
+- **Email** : marzaqhamza1@gmail.com
+- **Téléphone** : 07 62 46 06 40
+- **LinkedIn** : https://www.linkedin.com/in/hamza-marzaq
+- **GitHub** : https://github.com/Hamza-dev-max
