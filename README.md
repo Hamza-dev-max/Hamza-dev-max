@@ -2,7 +2,7 @@
 
 Étudiant en **Licence 3 Informatique**, je m’intéresse au développement logiciel, au développement web et à la cybersécurité.
 
-Je recherche une **alternance à partir de septembre 2026** dans le développement logiciel, le développement web ou la cybersécurité.
+Je recherche une **alternance à partir de juin 2026** dans le développement logiciel, le développement web ou la cybersécurité.
 
 ## 🛠️ Compétences
 
