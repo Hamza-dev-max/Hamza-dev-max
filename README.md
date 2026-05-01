@@ -1,21 +1,42 @@
 # 👋 Bonjour, je suis Hamza Marzaq
 
-Étudiant en **Licence 3 Informatique à l’Université Grenoble Alpes**, je m’intéresse au **développement logiciel**, au **développement web full stack**, au **Machine Learning** et à la **cybersécurité**.
+Étudiant en **Licence 3 Informatique à l’Université Grenoble Alpes**, je m’intéresse au **développement logiciel**, au **développement web full stack**, au **Machine Learning** et à la **cybersécurité applicative**.
 
 Je recherche une **alternance à partir de septembre 2026** dans le développement logiciel, le développement web full stack ou la cybersécurité.
+
+🌐 **Portfolio :** https://hamza-dev-max.github.io/portfolio/  
+💼 **LinkedIn :** https://www.linkedin.com/in/hamza-marzaq  
+📧 **Email :** marzaqhamza1@gmail.com  
+🐙 **GitHub :** https://github.com/Hamza-dev-max
+
+---
+
+## 🎯 Profil
+
+Je suis un étudiant motivé, sérieux et orienté projets.  
+Je développe des applications web, des API REST et des projets Machine Learning afin de renforcer mes compétences techniques et construire un profil solide pour l’alternance.
+
+Mes centres d’intérêt principaux :
+
+- Développement web full stack
+- API REST et backend
+- Applications métier
+- Machine Learning
+- Sécurité web et bonnes pratiques OWASP
+- Cybersécurité applicative
 
 ---
 
 ## 🛠️ Compétences techniques
 
-**Langages :** Java, Python, C, JavaScript, PHP  
-**Frontend :** React, Angular, HTML, CSS  
+**Langages :** Java, Python, C, JavaScript, TypeScript, PHP  
+**Frontend :** React, Angular, HTML5, CSS3  
 **Backend :** Node.js, Express.js, Spring Boot, Django  
 **Bases de données :** SQL, MySQL, PostgreSQL, SQLite  
 **API & Sécurité :** API REST, JWT, authentification, OWASP Top 10  
 **Machine Learning :** Scikit-learn, Pandas, NumPy, classification, NLP, TF-IDF  
-**Outils :** Git, GitHub, VS Code, Maven, npm, Linux  
-**Notions :** cybersécurité, sécurité web, architecture client/serveur, intégration API
+**Outils :** Git, GitHub, VS Code, Maven, npm, Linux, Postman  
+**Soft skills :** autonomie, sérieux, travail en équipe, résolution de problèmes, communication
 
 ---
 
@@ -82,7 +103,7 @@ Application web Django de recommandation agricole utilisant un modèle de Machin
 
 ---
 
-### ✅ TaskFlow — Application full stack de gestion de tâches
+### ✅ TaskFlow — Application Full Stack de gestion de tâches
 
 Application web full stack permettant de gérer des tâches avec une architecture frontend/backend et une API REST.
 
@@ -101,6 +122,54 @@ Application web full stack permettant de gérer des tâches avec une architectur
 
 ---
 
+## 📚 Formation
+
+**Université Grenoble Alpes — Licence 3 Informatique**  
+2025 — présent  
+Programmation, algorithmique, bases de données, systèmes, réseaux et développement logiciel.
+
+**EMSI Rabat — Cycle d’ingénierie Informatique**  
+2024 — 2025  
+Développement logiciel, projets web, bases de données et programmation orientée objet.
+
+**EMSI Rabat — Cycle préparatoire Informatique**  
+2022 — 2024  
+Mathématiques, algorithmique, programmation et logique de résolution de problèmes.
+
+---
+
+## 💼 Expérience
+
+### Stagiaire Développeur Logiciel — Atlantis
+
+**Juillet 2025**
+
+- Développement backend en Java / Spring Boot
+- Correction de bugs et amélioration de la stabilité applicative
+- Utilisation de Git / GitHub
+- Participation à un environnement Agile
+
+### Tuteur académique en informatique — Institut Al Najah
+
+**2021 — 2022**
+
+- Encadrement d’étudiants en JavaScript, C++ et mathématiques appliquées
+- Explication de concepts de programmation orientée objet
+- Accompagnement en algorithmique et résolution de problèmes
+
+---
+
+## 📜 Certifications
+
+- **Python for Data Science, AI & Development** — IBM
+- **Interactivity with JavaScript** — University of Michigan
+- **Software Design and Project Management** — HKUST
+- **Introduction à la programmation orientée objet en C++** — EPFL
+- **The Unix Workbench** — Johns Hopkins University
+- **HTML, CSS and JavaScript for Web Developers** — Coursera
+
+---
+
 ## 🎯 Objectif professionnel
 
 Développer mes compétences en **développement logiciel**, **applications web full stack**, **API REST**, **Machine Learning**, **outils internes d’entreprise** et **cybersécurité applicative** à travers des projets concrets, structurés et documentés.
@@ -114,4 +183,5 @@ Je souhaite rejoindre une entreprise en alternance afin de contribuer à des pro
 **Email :** marzaqhamza1@gmail.com  
 **Téléphone :** 07 62 46 06 40  
 **LinkedIn :** https://www.linkedin.com/in/hamza-marzaq  
-**GitHub :** https://github.com/Hamza-dev-max
+**GitHub :** https://github.com/Hamza-dev-max  
+**Portfolio :** https://hamza-dev-max.github.io/portfolio/
