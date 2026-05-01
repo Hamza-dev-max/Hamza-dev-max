@@ -2,12 +2,12 @@
 
 Étudiant en **Licence 3 Informatique à l’Université Grenoble Alpes**, je m’intéresse au **développement logiciel**, au **développement web full stack**, au **Machine Learning** et à la **cybersécurité applicative**.
 
-Je recherche une **alternance à partir de septembre 2026** dans le développement logiciel, le développement web full stack ou la cybersécurité.
+Je recherche une **alternance à partir de juin 2026** dans le développement logiciel, le développement web full stack ou la cybersécurité.
 
-🌐 **Portfolio :** https://hamza-dev-max.github.io/portfolio/
+🌐 **Portfolio :** https://hamza-dev-max.github.io/portfolio/  
 💼 **LinkedIn :** https://www.linkedin.com/in/hamza-marzaq  
 📧 **Email :** marzaqhamza1@gmail.com  
-🐙 **GitHub :** https://github.com/Hamza-dev-max
+🐙 **GitHub :** https://github.com/Hamza-dev-max  
 
 ---
 
