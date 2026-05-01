@@ -4,7 +4,7 @@
 
 Je recherche une **alternance à partir de septembre 2026** dans le développement logiciel, le développement web full stack ou la cybersécurité.
 
-🌐 **Portfolio :** https://hamza-dev-max.github.io/portfolio/  
+🌐 **Portfolio :** https://hamza-dev-max.github.io/portfolio/
 💼 **LinkedIn :** https://www.linkedin.com/in/hamza-marzaq  
 📧 **Email :** marzaqhamza1@gmail.com  
 🐙 **GitHub :** https://github.com/Hamza-dev-max
