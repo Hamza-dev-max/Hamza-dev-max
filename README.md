@@ -1,187 +1,242 @@
 # 👋 Bonjour, je suis Hamza Marzaq
 
-Étudiant en **Licence 3 Informatique à l’Université Grenoble Alpes**, je m’intéresse au **développement logiciel**, au **développement web full stack**, au **Machine Learning** et à la **cybersécurité applicative**.
+### Développeur Full Stack
 
-Je recherche une **alternance à partir de juin 2026** dans le développement logiciel, le développement web full stack ou la cybersécurité.
+Développeur logiciel formé à l’Université Grenoble Alpes, passionné par le développement logiciel et les technologies numériques.
+
+Je possède une solide expérience en développement backend Java, en développement fullstack avec Angular et Spring Boot, ainsi qu’en data science avec Python et Scikit-learn.
+
+Sérieux, autonome et motivé.
 
 🌐 **Portfolio :** https://hamza-dev-max.github.io/portfolio/  
 💼 **LinkedIn :** https://www.linkedin.com/in/hamza-marzaq  
 📧 **Email :** marzaqhamza1@gmail.com  
-🐙 **GitHub :** https://github.com/Hamza-dev-max  
+🐙 **GitHub :** https://github.com/Hamza-dev-max
 
 ---
 
 ## 🎯 Profil
 
-Je suis un étudiant motivé, sérieux et orienté projets.  
-Je développe des applications web, des API REST et des projets Machine Learning afin de renforcer mes compétences techniques et construire un profil solide pour l’alternance.
+Je suis développeur logiciel avec une orientation Full Stack et backend.
 
-Mes centres d’intérêt principaux :
+Mes principaux domaines de compétences sont :
 
-- Développement web full stack
-- API REST et backend
-- Applications métier
-- Machine Learning
-- Sécurité web et bonnes pratiques OWASP
-- Cybersécurité applicative
+- Développement backend Java
+- Développement Full Stack
+- Angular & Spring Boot
+- API REST
+- Bases de données relationnelles
+- Data Science avec Python
+- Machine Learning avec Scikit-learn
+- Réseaux TCP/IP
+- Sécurité applicative et OWASP
 
 ---
 
 ## 🛠️ Compétences techniques
 
-**Langages :** Java, Python, C, JavaScript, TypeScript, PHP  
-**Frontend :** React, Angular, HTML5, CSS3  
-**Backend :** Node.js, Express.js, Spring Boot, Django  
-**Bases de données :** SQL, MySQL, PostgreSQL, SQLite  
-**API & Sécurité :** API REST, JWT, authentification, OWASP Top 10  
-**Machine Learning :** Scikit-learn, Pandas, NumPy, classification, NLP, TF-IDF  
-**Outils :** Git, GitHub, VS Code, Maven, npm, Linux, Postman  
-**Soft skills :** autonomie, sérieux, travail en équipe, résolution de problèmes, communication
+### 💻 Langages
+
+- C++
+- C
+- Python
+- Java
+- TypeScript
+- JavaScript
+- PHP
+
+### 🌐 Web & Frameworks
+
+- ReactJS
+- React Native
+- Next.js
+- Node.js
+- Angular
+- Spring Boot
+- Laravel
+
+### 🗄️ Bases de données
+
+- MySQL
+- PostgreSQL
+- SQL
+
+### ⚙️ Outils
+
+- Git
+- GitHub
+- Linux / Unix
+- Ligne de commande
+- API REST
+- Agile / Scrum
+
+### 🔐 Cybersécurité
+
+- Réseaux TCP/IP
+- Sécurité applicative
+- OWASP
+
+### 🤖 Data & IA
+
+- Python
+- Scikit-learn
+- Introduction à l’IA
+
+### 🤝 Soft Skills
+
+- Résolution de problèmes
+- Travail en équipe
+- Prise de décision
+- Autonomie
 
 ---
 
-## 🚀 Projets principaux
+## 🚀 Projets techniques
 
-### 📡 Telco Connect B2B — Plateforme Full Stack Télécom
+### 🌾 AgriConnect — Plateforme d’aide à la décision agricole
 
-Application web full stack simulant l’écosystème digital d’une entreprise télécom B2B : catalogue d’offres, extranet client, commandes, tickets support, dashboard administrateur et API REST sécurisée.
+Développement d’un système de recommandation de cultures selon le sol, le climat et la saison.
 
-**Fonctionnalités principales :**
+**Stack :**
 
-- Authentification JWT avec rôles Admin / Client
-- Dashboard administrateur avec statistiques
-- Catalogue d’offres télécom B2B
-- Création et suivi des commandes
-- Gestion des tickets support
-- Simulation d’intégration CRM / ERP via webhook
-- Interface responsive et professionnelle
+`Python` · `Scikit-learn` · `PostgreSQL`
 
-**Stack :** React, JavaScript, Node.js, Express.js, REST API, JWT, CSS
+**Résultat :**
 
-🔗 **Projet GitHub :** https://github.com/Hamza-dev-max/telco-connect-b2b
+- Développement d’un système de recommandation de cultures
+- Modèle de Machine Learning
+- Précision du modèle supérieure à 85 %
 
----
-
-### 📧 Spam Shield ML — Classification de messages spam
-
-Projet de Machine Learning permettant de classifier automatiquement des messages en **spam** ou **non-spam** à partir de leur contenu textuel.
-
-Le projet suit un pipeline complet de classification NLP : nettoyage du texte, vectorisation TF-IDF, entraînement d’un modèle, évaluation avec métriques et interface de démonstration.
-
-**Fonctionnalités principales :**
-
-- Nettoyage et préparation des messages textuels
-- Transformation du texte avec TF-IDF
-- Entraînement d’un modèle de classification
-- Prédiction spam / non-spam
-- Évaluation avec accuracy, precision, recall et F1-score
-- Interface Streamlit pour tester un message manuellement
-- Notebook de démonstration
-
-**Stack :** Python, Scikit-learn, Pandas, NumPy, NLP, TF-IDF, Streamlit
-
-🔗 **Projet GitHub :** https://github.com/Hamza-dev-max/spam-shield-ml
+🔗 **Projet GitHub :**  
+https://github.com/Hamza-dev-max/agriconnect
 
 ---
 
-### 🌾 AgriConnect — Recommandation agricole avec Machine Learning
+### ✅ Task Flow — Application de gestion de tâches Full Stack
 
-Application web Django de recommandation agricole utilisant un modèle de Machine Learning pour proposer une culture adaptée selon les paramètres du sol et les conditions climatiques.
+Application de gestion de tâches développée dans le cadre d’un projet à l’EMSI Rabat.
 
-**Fonctionnalités principales :**
+Architecture REST complète avec un frontend Angular et un backend Java Spring Boot.
 
-- Prédiction de culture selon les paramètres du sol
-- Historique des prédictions
-- Analyse des données avec graphiques
-- Météo automatique via OpenWeatherMap
-- Interface web avec Django
-- Documentation GitHub claire
+**Fonctionnalités :**
 
-**Stack :** Python, Django, Machine Learning, SQLite, OpenWeatherMap API
+- Création de tâches
+- Modification des tâches
+- Suivi des tâches
+- Architecture REST
+- Persistance des données
+- Base de données relationnelle MySQL
 
-🔗 **Projet GitHub :** https://github.com/Hamza-dev-max/agriconnect
+**Stack :**
 
----
+`Angular` · `TypeScript` · `Java` · `Spring Boot` · `MySQL`
 
-### ✅ TaskFlow — Application Full Stack de gestion de tâches
-
-Application web full stack permettant de gérer des tâches avec une architecture frontend/backend et une API REST.
-
-**Fonctionnalités principales :**
-
-- Création, modification et suppression de tâches
-- Suivi du statut : à faire, en cours, terminée
-- Gestion des priorités
-- Recherche et filtrage des tâches
-- Tableau de bord avec statistiques
-- Architecture frontend/backend avec API REST
-
-**Stack :** Angular, Spring Boot, Java, MySQL, API REST
-
-🔗 **Projet GitHub :** https://github.com/Hamza-dev-max/taskflow
+🔗 **Projet GitHub :**  
+https://github.com/Hamza-dev-max/taskflow
 
 ---
 
-## 📚 Formation
+## 🎓 Formation
 
-**Université Grenoble Alpes — Licence 3 Informatique**  
-2025 — présent  
-Programmation, algorithmique, bases de données, systèmes, réseaux et développement logiciel.
+### Claude Campus — Formation Développeur
 
-**EMSI Rabat — Cycle d’ingénierie Informatique**  
-2024 — 2025  
-Développement logiciel, projets web, bases de données et programmation orientée objet.
+**2025 — 2026**
 
-**EMSI Rabat — Cycle préparatoire Informatique**  
-2022 — 2024  
-Mathématiques, algorithmique, programmation et logique de résolution de problèmes.
+Formation orientée développement logiciel et technologies numériques.
 
 ---
 
-## 💼 Expérience
+### Université Grenoble Alpes — Licence Informatique Générale
 
-### Stagiaire Développeur Logiciel — Atlantis
+**2024 — 2025**
 
-**Juillet 2025**
+Formation en informatique générale et développement logiciel.
 
-- Développement backend en Java / Spring Boot
-- Correction de bugs et amélioration de la stabilité applicative
-- Utilisation de Git / GitHub
-- Participation à un environnement Agile
+---
 
-### Tuteur académique en informatique — Institut Al Najah
+### EMSI Rabat — Cycle d’ingénierie Informatique
 
-**2021 — 2022**
+**2022 — 2024**
 
-- Encadrement d’étudiants en JavaScript, C++ et mathématiques appliquées
+Formation en ingénierie informatique et développement logiciel.
+
+---
+
+## 💼 Expérience professionnelle
+
+### Alternant Développeur Logiciel — SKOLEOM PLATFORM INC
+
+📍 Paris, France  
+📅 **2025 — 2026**
+
+Développement de fonctionnalités backend en Java avec Spring Boot dans un environnement professionnel Agile.
+
+**Missions principales :**
+
+- Développement de fonctionnalités backend en Java / Spring Boot
+- Identification et correction de bugs critiques
+- Réduction du taux d’erreurs de l’application
+- Collaboration en équipe via Git / GitHub
+- Participation aux revues de code
+
+---
+
+### Tuteur Académique en Informatique — Université Grenoble Alpes
+
+📍 Grenoble, France  
+📅 **2024 — 2025**
+
+**Missions principales :**
+
+- Encadrement de 15+ étudiants
+- Accompagnement en JavaScript et C++
+- Accompagnement en mathématiques appliquées
 - Explication de concepts de programmation orientée objet
-- Accompagnement en algorithmique et résolution de problèmes
+- Accompagnement en algorithmie
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications — Coursera
 
-- **Python for Data Science, AI & Development** — IBM
-- **Interactivity with JavaScript** — University of Michigan
-- **Software Design and Project Management** — HKUST
-- **Introduction à la programmation orientée objet en C++** — EPFL
-- **The Unix Workbench** — Johns Hopkins University
-- **HTML, CSS and JavaScript for Web Developers** — Coursera
+- **HTML, CSS and JavaScript for Web Developers**
+- **Interactivity with JavaScript**
+- **C for Everyone: Programming Fundamentals**
+- **POO en C++**
+- **The Arduino Platform and C**
+- **Introduction to AI**
+- **The Unix Workbench**
+
+---
+
+## 🌍 Langues
+
+| Langue | Niveau |
+|---|---|
+| 🇲🇦 Arabe | Langue maternelle |
+| 🇫🇷 Français | C1 |
+| 🇬🇧 Anglais | C2 |
 
 ---
 
 ## 🎯 Objectif professionnel
 
-Développer mes compétences en **développement logiciel**, **applications web full stack**, **API REST**, **Machine Learning**, **outils internes d’entreprise** et **cybersécurité applicative** à travers des projets concrets, structurés et documentés.
+Développer mes compétences dans le développement logiciel, le développement Full Stack, le backend Java, les API REST et la data science.
 
-Je souhaite rejoindre une entreprise en alternance afin de contribuer à des projets techniques réels, progresser dans un environnement professionnel et renforcer mes compétences en développement, data et sécurité.
+Je souhaite continuer à évoluer sur des projets techniques concrets et renforcer mes compétences dans un environnement professionnel.
 
 ---
 
 ## 📫 Contact
 
-**Email :** marzaqhamza1@gmail.com  
-**Téléphone :** 07 62 46 06 40  
-**LinkedIn :** https://www.linkedin.com/in/hamza-marzaq  
-**GitHub :** https://github.com/Hamza-dev-max  
-**Portfolio :** https://hamza-dev-max.github.io/portfolio/
+📧 **Email :** marzaqhamza1@gmail.com
+
+📱 **Téléphone :** +33 7 62 46 06 40
+
+💼 **LinkedIn :**  
+https://www.linkedin.com/in/hamza-marzaq
+
+🐙 **GitHub :**  
+https://github.com/Hamza-dev-max
+
+🌐 **Portfolio :**  
+https://hamza-dev-max.github.io/portfolio/
